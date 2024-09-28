@@ -1,7 +1,5 @@
 # sam-whitley.github.io
 
-### This is a test
-
 Built using:
 
 - Framework : [Next.js](https://nextjs.org/)
