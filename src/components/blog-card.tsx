@@ -44,13 +44,13 @@ export function BlogCard({ blog }: { blog: BlogCardProps }) {
     <div className="flex cursor-pointer flex-col rounded-xl transition hover:bg-zinc-50 hover:dark:bg-zinc-800/50 bg-white dark:bg-zinc-800/50 shadow border border-gray-200 dark:border-zinc-800/50 h-full">
       
       {/* Image at the top similar to the Project Card */}
-      <Image
+      <img
         src={blog.thumbnail}
         alt={`Thumbnail for ${blog.title}`}
         className="h-50 w-full rounded-t-xl object-cover bg-no-repeat shadow"
         width={0}
         height={0}
-        unoptimized
+        // unoptimized
       />
 
       <div className="p-4 flex flex-col justify-between h-full">
