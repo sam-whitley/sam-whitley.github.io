@@ -31,7 +31,7 @@ export default function Home() {
             // priority
           />
           <h1 className="text-2xl font-bold">Sam Whitley</h1>
-          <p className="opacity-70">Bachelor’s Degree in Information and Communication Technology</p>
+          <p className="opacity-70">Bachelor’s Degree in Information and Communication Technology test 18.02</p>
 
           <div className="text-gray-700 dark:text-gray-300 mt-4 leading-relaxed">
             <p className="mb-4">
