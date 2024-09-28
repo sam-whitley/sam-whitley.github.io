@@ -22,11 +22,13 @@ export default function Home() {
         <div className="min-w-[300px] min-h-[400px] p-6 bg-white dark:bg-zinc-800/50 rounded-xl shadow border border-gray-200 dark:border-zinc-800/50">
           <img
             src="/_static/profilePicture.jpg"
-            width={130}
-            height={130}
+            // width={130}
+            // height={130}
+            width="130"
+            height="130"
             alt="avatar"
             className="rounded-xl mb-5 shadow"
-            priority
+            // priority
           />
           <h1 className="text-2xl font-bold">Sam Whitley</h1>
           <p className="opacity-70">Bachelor’s Degree in Information and Communication Technology</p>
