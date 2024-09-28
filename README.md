@@ -15,4 +15,5 @@ git clone https://github.com/sam-whitley/sam-whitley.github.io
 cd sam-whitley.github.io
 pnpm install
 pnpm dev
+pnpm build
 ```
