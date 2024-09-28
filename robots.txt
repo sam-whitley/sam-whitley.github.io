@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://sam-whitley.github.io/
+Sitemap: https://sam-whitley.github.io//sitemap.xml
