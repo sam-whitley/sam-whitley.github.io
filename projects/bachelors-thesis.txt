@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/2d141e1a38819612-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/_next/static/css/cfcf2aed683004a1.css","style",{"crossOrigin":""}]
-0:["r-C471DPypYjhCO5Rbhlc",[[["",{"children":["projects",{"children":[["slug","bachelors-thesis","d"],{"children":["__PAGE__?{\"slug\":\"bachelors-thesis\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cfcf2aed683004a1.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["ez-wKfWghGW_Vpi9rnKud",[[["",{"children":["projects",{"children":[["slug","bachelors-thesis","d"],{"children":["__PAGE__?{\"slug\":\"bachelors-thesis\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cfcf2aed683004a1.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[2105,["595","static/chunks/595-1d2b6c9ee7d77e91.js","838","static/chunks/838-f2b4dd94a0e63657.js","47","static/chunks/47-cc2315d8660dd40f.js","185","static/chunks/app/layout-b746325597cd691d.js"],"ThemeProvider"]
 6:I[5223,["595","static/chunks/595-1d2b6c9ee7d77e91.js","838","static/chunks/838-f2b4dd94a0e63657.js","47","static/chunks/47-cc2315d8660dd40f.js","185","static/chunks/app/layout-b746325597cd691d.js"],"Header"]
 7:I[3276,[],""]
