@@ -21,7 +21,7 @@ export default function Home() {
       <section className="">
         <div className="min-w-[300px] min-h-[400px] p-6 bg-white dark:bg-zinc-800/50 rounded-xl shadow border border-gray-200 dark:border-zinc-800/50">
           <img
-            src="/_static/coding.png"
+            src="/_static/profilePicture.jpg"
             // width={130}
             // height={130}
             width="130"
