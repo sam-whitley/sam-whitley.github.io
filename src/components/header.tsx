@@ -7,6 +7,7 @@ import { LayoutGroup, motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 import { ThemeToggler } from "./theme-toggle";
 import React from "react";
+import Image from "next/image";
 
 const navItems = {
   "/": {
@@ -38,7 +39,7 @@ export function Header() {
               <div className="flex flex-row items-center">
                 {/* Logo and Name */}
                 <Link href="/" className="flex items-center space-x-2">
-                  <img
+                  <Image
                     src="/_static/coding.png"
                     alt="Sam Whitley Logo"
                     height="35"
