@@ -2,7 +2,12 @@ const { withContentlayer } = require("next-contentlayer");
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export', // Add this line for static HTML export
+  output: "export",
+  images: {
+    loader: "akamai",
+    path: "",
+  },
+  assetPrefix: "./",
 };
 
 module.exports = withContentlayer(nextConfig);
