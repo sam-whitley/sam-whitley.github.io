@@ -42,7 +42,8 @@ export function Header() {
                   <Image
                     src="/_static/coding.png"
                     alt="Sam Whitley Logo"
-                    height="35"
+                    height={"32"}
+                    width={"32"}
                     className="h-8" // Adjust size as needed
                   />
                   <span className="text-lg font-semibold">Sam W.</span>
