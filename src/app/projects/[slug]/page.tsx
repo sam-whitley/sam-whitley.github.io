@@ -72,6 +72,9 @@ export default async function Blog({ params }: { params: { slug: string } }) {
           {formatDate(blog.publishedAt)} - {blog.readingTime.text}
         </p>
       </div>
+      <div className="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
+        <p>Technologies: {blog.tags?.join(', ')}</p>
+      </div>
       <Mdx code={blog.body.code} />
     </section>
   );
