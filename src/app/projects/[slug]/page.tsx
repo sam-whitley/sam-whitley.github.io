@@ -67,7 +67,7 @@ export default async function Blog({ params }: { params: { slug: string } }) {
       <h1 className="text-2xl font-bold tracking-tighter">
         <Balancer>{blog.title}</Balancer>
       </h1>
-      <div className="mb-8 mt-2 flex items-center justify-between text-sm text-neutral-600 dark:text-neutral-400">
+      <div className="mt-2 flex items-center justify-between text-sm text-neutral-600 dark:text-neutral-400">
         <p>
           {formatDate(blog.publishedAt)} - {blog.readingTime.text}
         </p>
