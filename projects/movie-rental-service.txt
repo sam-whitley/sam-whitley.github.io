@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/2d141e1a38819612-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/_next/static/css/8c610d03fcb48776.css","style",{"crossOrigin":""}]
-0:["98GyKzwpal4Y2dOwjp7be",[[["",{"children":["projects",{"children":[["slug","movie-rental-service","d"],{"children":["__PAGE__?{\"slug\":\"movie-rental-service\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8c610d03fcb48776.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["PcCFFo3HGsvK_Occda4Xh",[[["",{"children":["projects",{"children":[["slug","movie-rental-service","d"],{"children":["__PAGE__?{\"slug\":\"movie-rental-service\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8c610d03fcb48776.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[2105,["595","static/chunks/595-1d2b6c9ee7d77e91.js","806","static/chunks/806-d83412830c87e027.js","838","static/chunks/838-f2b4dd94a0e63657.js","198","static/chunks/198-6c82060ded32698c.js","185","static/chunks/app/layout-c41064df0e2b6a25.js"],"ThemeProvider"]
 6:I[5223,["595","static/chunks/595-1d2b6c9ee7d77e91.js","806","static/chunks/806-d83412830c87e027.js","838","static/chunks/838-f2b4dd94a0e63657.js","198","static/chunks/198-6c82060ded32698c.js","185","static/chunks/app/layout-c41064df0e2b6a25.js"],"Header"]
 7:I[3276,[],""]
