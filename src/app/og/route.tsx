@@ -26,28 +26,9 @@ export async function GET(req: NextRequest) {
           style={{
             height: "100%",
             width: "100%",
-            display: "flex",
-            flexDirection: "column",
-            alignItems: "flex-start",
-            justifyContent: "center",
-            color: "white",
-            // backgroundImage: `url(${siteMetadata.siteUrl}/_static/blog-og-card.png)`,
           }}
         >
-          <div
-            style={{
-              marginLeft: 100,
-              marginRight: 100,
-              display: "flex",
-              fontSize: 65,
-              fontFamily: "SpaceGrotesk",
-              fontStyle: "normal",
-              color: "white",
-              whiteSpace: "pre-wrap",
-            }}
-          >
-            {postTitle}
-          </div>
+          <h1>{postTitle}</h1>
         </div>
       ),
       {
@@ -55,17 +36,15 @@ export async function GET(req: NextRequest) {
         height: 630,
         fonts: [
           {
-            name: "SpaceGrotesk",
+            name: "Space Grotesk",
             data: groteskRegular,
             style: "normal",
           },
         ],
-      },
+      }
     );
-  } catch (e: any) {
-    console.log(`${e.message}`);
-    return new Response(`Failed to generate the image`, {
-      status: 500,
-    });
+  } catch (error) {
+    console.error(error);
+    return new Response("Internal Server Error", { status: 500 });
   }
 }
