@@ -111,7 +111,7 @@ export default function Home() {
           </div>
         </div>
 
-          <ul className="mt-4 grid grid-cols-1 gap-4 md:grid-cols-3 sm:grid-cols-2">
+          <ul className="">
             <SkillsList />
           </ul>
         </div>

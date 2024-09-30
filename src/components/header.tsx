@@ -11,10 +11,10 @@ import Image from "next/image";
 
 const navItems = {
   "/": {
-    name: "home",
+    name: "Home",
   },
   "/projects": {
-    name: "projects",
+    name: "Projects",
   },
   // "/projectsold": {
   //   name: "projectsold",
